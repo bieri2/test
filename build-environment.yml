@@ -6,4 +6,11 @@ dependencies:
   - pip
   - jupyterlite-xeus-python=0.9.4
   - pip:
-    - voici==0.4.6
+    - voici==0.4.6 
+  - numpy
+  - matplotlib
+  - xarray
+  - cartopy
+  - proplot
+  - netCDF4
+  - wrf
