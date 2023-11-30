@@ -13,4 +13,4 @@ dependencies:
   - cartopy
   - proplot
   - netCDF4
-  - wrf
+  - wrf-python
